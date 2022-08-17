@@ -1,8 +1,8 @@
-### Как запустить?
+### How to launch.
 
-1. Установить node.js: https://nodejs.org/en/download/
-2. Скачать проект из github и открыть в IDE (например, sublime): 
-3. Запустить команду в гитбаше (в папке cypress): `npm install`
-4. Установить cypress (в гитбаше): `npm install cypress --save-dev`
-6. Запускать автотесты командой `npm run start` 
-7. Все новые тесты нужно писать в папке /integration
+1. Download node.js: https://nodejs.org/en/download/
+2. Download the project from github and open in IDE. 
+3. Type (in cypress folder): `npm install` in the command line.
+4. Install cypress in command line: `npm install cypress --save-dev`
+6. Launch tests using command `npm run start` 
+7. Write all new tests in the /integration folder.
